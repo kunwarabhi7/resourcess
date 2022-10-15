@@ -31,13 +31,13 @@ https://www.showwcase.com/
 📌 remoteleaf. com 
 📌 remoteleads. io
 📌 https://freshremote.work/
-
-💰angel. co
-💰remote. co
-💰remoteok. io
+📌dailyremote. com
+📌hired. com
+📌producthunt. com/jobs
+📌remotive. io
+📌remoteok. com
+📌findasync. com
 💰remotive. io
-💰flexjobs. com
-💰justremote. co
 💰remotefront .io
 💰powertofly. com
 💰skipthedrive. com
