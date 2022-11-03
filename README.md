@@ -50,7 +50,7 @@ https://remotive.com/
 https://weworkremotely.com/
 https://himalayas.app/
 https://remoteok.com/
-
+https://remote.co/
 
 Free-Hosting-Websites-2022-
 Netlify
