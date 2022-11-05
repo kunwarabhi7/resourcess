@@ -74,3 +74,4 @@ InfinityFree
 ByetHost
 HyperPHP
 FreeWebHostingArea
+aws
