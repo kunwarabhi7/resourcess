@@ -75,3 +75,12 @@ ByetHost
 HyperPHP
 FreeWebHostingArea
 aws
+Railway
+GitHub Pages
+Fleek
+Surge
+Heroku
+Digital Ocean
+Amazon S3
+Hostman
+Cloudflare Pages
