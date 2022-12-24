@@ -52,6 +52,29 @@ https://himalayas.app/
 https://remoteok.com/
 https://remote.co/
 
+Freelance Web Developers
+
+→Guru
+→Fiverr
+→Toptal
+→Turing
+→Lorem
+→Bonsai
+→Upwork
+→Flexjobs
+→Soshace
+→Designhill
+→99designs
+→Crossover
+→Taskrabbit
+→Freelancer
+→Truelancer
+→Worksome
+→Simplyhired
+→Codementor
+→Remote One
+→Speedlancer
+→PeoplePerHour
 
 Free-Hosting-Websites-2022-
 Netlify
