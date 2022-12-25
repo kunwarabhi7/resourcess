@@ -1,6 +1,6 @@
 # resources
 
-Resumes ⬇️⬇️⬇️
+Resume ⬇️⬇️⬇️
 
 https://resumeworded.com/
 https://zety.com/
