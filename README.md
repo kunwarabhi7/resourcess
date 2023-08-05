@@ -1,4 +1,4 @@
-# resourcess
+# resources
 
 Resume ⬇️⬇️⬇️
 
